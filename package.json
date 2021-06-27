@@ -1,0 +1,16 @@
+{
+  "name": "aws_lambda_backend",
+  "version": "1.0.0",
+  "description": "backend code that will be uploaded to AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Munaiz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lambda-api": "^0.10.7",
+    "moment": "^2.29.1"
+  }
+}
